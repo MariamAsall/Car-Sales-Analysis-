@@ -7,12 +7,12 @@ The dataset is a detailed record of car sales transactions, encompassing 23,906 
 # project Structure 
 **Car sales.xlsx**: This Excel file contains the raw data used for analysis
 **Car Analysis.xlsx**: File with foloowing sheets :
-  **Dashboard**: Dynamic visual summaries and key performance indicators (KPIs)..
-  **Report**: Displaying data in tables for Analysis 
-  **Data**: The main dataset, which includes detailed information about each car sale, such as:
-  Transaction date, customer details (name, gender, income)
-  Vehicle details (company, model, transmission type, color, price, body style)
-  Dealership information (dealer number, region, year of sale)  
+1-**Dashboard**: Dynamic visual summaries and key performance indicators (KPIs)..
+2-**Report**: Displaying data in tables for Analysis 
+3-**Data**: The main dataset, which includes detailed information about each car sale, such as:
+            Transaction date, customer details (name, gender, income)
+            Vehicle details (company, model, transmission type, color, price, body style)
+            Dealership information (dealer number, region, year of sale)  
   
 **project.ipynb**: The Jupyter Notebook file that performs the data analysis. Key steps include:
 
