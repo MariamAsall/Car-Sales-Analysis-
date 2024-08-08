@@ -29,13 +29,8 @@ The dataset is a detailed record of car sales transactions, encompassing 23,906 
 5. **Statistical Summary**: Displaying statistical summaries for both categorical and numerical data.  
 6. **Business Questions**: Addressing business-related questions for data-driven decision-making.
 
+
 ## Acknowledgments
 
 Special thanks to the data providers and the inspiration to uncover actionable insights from automotive sales.
 
-6- **Business Questions** : Addressing business-related questions for data-driven decision- 
-                            making.
-
-**Acknowledgments**
-Special thanks to the data providers and the inspiration to uncover actionable insights from automotive sales.
-                         
